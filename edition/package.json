@@ -77,7 +77,7 @@
             },
             "featured_title": {
                 "type": "text",
-                "default": "Featured articles",
+                "default": "Text-only",
                 "group": "homepage"
             },
             "feed_title": {
